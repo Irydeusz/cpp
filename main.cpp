@@ -7,6 +7,6 @@ int main(int argc, char** argv) {
 	int user_input;
 	cout << "Podaj liczbe : ";
 	cin>>user_input;
-	
+	 //bb
 	return 0;
 }

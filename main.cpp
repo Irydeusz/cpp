@@ -6,5 +6,7 @@ int main(int argc, char** argv) {
 	int liczba = 55;
 	int user_input;
 	cout << "Podaj liczbe : ";
+	cin>>user_input;
+	
 	return 0;
 }
